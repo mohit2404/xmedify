@@ -161,6 +161,7 @@ export default function LandingSection() {
             </div>
 
             <button
+              id="searchBtn"
               className="h-12 px-7 rounded-md bg-[#2AA8FF] text-white cursor-pointer"
               type="submit"
               onClick={handleFindCenters}
